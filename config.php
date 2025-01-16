@@ -8,4 +8,4 @@ $db_password = 'my-Password';
 
 // url 
 $base_url = '/pondok-gita-ubud';
-$asset_url = '/pondok-gita-ubud/assets';
+$asset_url = 'assets/';
