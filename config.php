@@ -1,3 +1,4 @@
+
 <?php
 
 // database connection
@@ -7,5 +8,5 @@ $db_user = 'root';
 $db_password = 'my-Password';
 
 // url 
-$base_url = '/pondok-gita-ubud';
-$asset_url = '/pondok-gita-ubud/assets';
+$base_url = '/pondok-gita-ubud';;
+$asset_url = '/assets';
