@@ -5,7 +5,7 @@
             <div class="col-lg-6 col-md-6 mb-5 mb-md-5">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">About Us</h2>
-                    <p>Pondok Gita Ubud, didirikan pada tahun 2023 oleh Ibu Ni Wayan Sukerti, menawarkan akomodasi
+                    <p class="text-justify">Pondok Gita Ubud, didirikan pada tahun 2023 oleh Ibu Ni Wayan Sukerti, menawarkan akomodasi
                         nyaman dan terjangkau di Jl. Yudistira Timur, Peliatan, Ubud. Dengan empat kamar berfasilitas
                         lengkap, seperti AC, kamar mandi modern, serta akses WiFi gratis, kami menjadi pilihan ideal
                         bagi wisatawan dengan anggaran terbatas. Kami juga menyediakan balkon dan teras untuk bersantai,

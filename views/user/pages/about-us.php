@@ -21,7 +21,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <h2 class="mb-4">Pondok Gita Ubud</h2>
             </div>
             <div>
-                <p>Pondok Gita Ubud, didirikan pada tahun 2023 oleh Ibu Ni Wayan Sukerti, menawarkan akomodasi nyaman
+                <p class="text-justify">Pondok Gita Ubud, didirikan pada tahun 2023 oleh Ibu Ni Wayan Sukerti, menawarkan akomodasi nyaman
                     dan terjangkau di Jl. Yudistira Timur, Peliatan, Ubud. Dengan empat kamar berfasilitas lengkap,
                     seperti AC, kamar mandi modern, serta akses WiFi gratis, kami menjadi pilihan ideal bagi wisatawan
                     dengan anggaran terbatas. Kami juga menyediakan balkon dan teras untuk bersantai, serta parkir

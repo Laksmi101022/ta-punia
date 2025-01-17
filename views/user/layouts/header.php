@@ -23,7 +23,11 @@
     <link rel="stylesheet" href="<?= asset('/user/css/icomoon.css') ?>">
     <link rel="stylesheet" href="<?= asset('/user/css/style.css') ?>">
     <link rel="icon" href="<?= asset('/user/images/pondok-gita-logo.png') ?>" type="image/png">
-
+    <style>
+    .text-justify {
+      text-align: justify;
+    }
+  </style>
 
     <!-- Placeholder untuk css dan style tambahan -->
     <?php
