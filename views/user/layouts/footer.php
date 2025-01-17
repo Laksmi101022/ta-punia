@@ -52,11 +52,11 @@
     </div>
 </footer>
 
-<div class="whatsapp-button">
-    <a href="https://wa.me/6281234567890" target="_blank" aria-label="Hubungi kami di WhatsApp">
+<!-- <div class="whatsapp-button">
+    <a href="https://wa.me/" target="_blank" aria-label="Hubungi kami di WhatsApp">
         <i class=" icon-whatsapp"></i>
     </a>
-</div>
+</div> -->
 
 
 <!-- loader -->
